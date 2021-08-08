@@ -1,5 +1,3 @@
 gunicorn
 flask
-textblob
-nltk
 spacy
